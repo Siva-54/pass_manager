@@ -9,9 +9,9 @@ This Python script allows you to encrypt and decrypt passwords using the Fernet 
 
 You can install the required library using pip:
 
-'''bash
+```bash
 pip install cryptography
-'''
+```
 
 ## Usage
 
